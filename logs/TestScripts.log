@@ -1,0 +1,8 @@
+2024-09-13 16:16:49 INFO  Amazon:45 - ************ Launch Chrome Browser*********
+2024-09-13 16:16:55 INFO  Amazon:51 - ************ Amazon Application launch*********
+2024-09-13 16:16:55 INFO  Amazon:53 - ************ Application Title Verify SuccessFully*********
+2024-09-13 16:16:55 INFO  Amazon:60 - ************ SearchProduct Entered in Application *********
+2024-09-13 16:17:02 INFO  Amazon:66 - ************ List of product display based on SearchResult SuccessFully*********
+2024-09-13 16:17:08 INFO  Amazon:89 - ************ Products sorted by Price Successfully*********
+2024-09-13 16:17:08 INFO  Amazon:93 - ************ Product Names and corresponding Price display successfully*********
+2024-09-13 16:17:09 INFO  Amazon:99 - ************ Application close SuccessFully*********
